@@ -13,3 +13,5 @@
 - **Day 4 🚀:** Create a function resolvePath(relativePath) that takes a relative path as input and resolves it to an absolute path using the path module. The function should print the resolved path to the console.[Solution](https://twitter.com/Yaman895379/status/1754204327240253613).
 
 - **Day 5 🚀:** Create a function checkFileExtension(filePath, expectedExtension) that takes a file path and an expected file extension as input. The function should check if the file has the expected extension using the path module and print the result to the console.[Solution](https://twitter.com/Yaman895379/status/1754530108864700459).
+
+- **Day 6 🚀:** You are building a web application using Express in Node.js. Create an Express route to handle GET requests to the endpoint "/greet" that takes a query parameter "name" and returns a personalized greeting. If the name parameter is not provided, the default greeting should be "Hello, Guest!".[Solution](https://twitter.com/Yaman895379/status/1754908848572243980).

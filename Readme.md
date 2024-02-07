@@ -15,3 +15,5 @@
 - **Day 5 🚀:** Create a function checkFileExtension(filePath, expectedExtension) that takes a file path and an expected file extension as input. The function should check if the file has the expected extension using the path module and print the result to the console.[Solution](https://twitter.com/Yaman895379/status/1754530108864700459).
 
 - **Day 6 🚀:** You are building a web application using Express in Node.js. Create an Express route to handle GET requests to the endpoint "/greet" that takes a query parameter "name" and returns a personalized greeting. If the name parameter is not provided, the default greeting should be "Hello, Guest!".[Solution](https://twitter.com/Yaman895379/status/1754908848572243980).
+
+- **Day 7 🚀:** Problem Statement: Implement an Express middleware function that logs the timestamp and the HTTP method of every incoming request to the server.[Solution](https://twitter.com/Yaman895379/status/1755288814380057036).

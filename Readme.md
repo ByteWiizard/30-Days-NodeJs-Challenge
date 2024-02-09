@@ -19,3 +19,13 @@
 - **Day 7 🚀:** Problem Statement: Implement an Express middleware function that logs the timestamp and the HTTP method of every incoming request to the server.[Solution](https://twitter.com/Yaman895379/status/1755288814380057036).
 
 - **Day 8 🚀:** Problem Statement: Create an Express route that throws an error if the request parameter "number" is not a positive integer. Implement an error handling middleware to catch and handle this specific error, returning a custom error message and a 400 Bad Request status.[Solution](https://twitter.com/Yaman895379/status/1755497151788990548). 
+
+- **Day 9 🚀:** Which of the following are examples of node modules?
+
+a. Express
+
+b. Body-parser
+
+c. Socket.io
+
+d. All of the above[Solution](https://twitter.com/Yaman895379/status/1755982144566870512). 

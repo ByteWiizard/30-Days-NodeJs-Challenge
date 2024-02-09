@@ -17,3 +17,5 @@
 - **Day 6 🚀:** You are building a web application using Express in Node.js. Create an Express route to handle GET requests to the endpoint "/greet" that takes a query parameter "name" and returns a personalized greeting. If the name parameter is not provided, the default greeting should be "Hello, Guest!".[Solution](https://twitter.com/Yaman895379/status/1754908848572243980).
 
 - **Day 7 🚀:** Problem Statement: Implement an Express middleware function that logs the timestamp and the HTTP method of every incoming request to the server.[Solution](https://twitter.com/Yaman895379/status/1755288814380057036).
+
+- **Day 8 🚀:** Problem Statement: Create an Express route that throws an error if the request parameter "number" is not a positive integer. Implement an error handling middleware to catch and handle this specific error, returning a custom error message and a 400 Bad Request status.[Solution](https://twitter.com/Yaman895379/status/1755497151788990548). 

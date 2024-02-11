@@ -30,3 +30,10 @@ c. Socket.io
 
 d. All of the above
 [Solution](https://twitter.com/Yaman895379/status/1755982144566870512). 
+
+
+- **Day 10 🚀:** Problem Statement:  Create an Express application that serves static files (e.g., HTML, CSS, images) from a "public" directory. Ensure that accessing the root ("/") returns the "index.html" file from the "public" directory.
+[Solution](https://twitter.com/Yaman895379/status/1756366676050809317). 
+
+
+- **Day 11 🚀:** Problem Statement: Implement an authentication middleware for an Express application. The middleware should check for the presence of a valid JWT (JSON Web Token) in the request headers. If a valid token is present, allow the request to proceed; otherwise, return a 401 Unauthorized status.[Solution](https://twitter.com/Yaman895379/status/1756727256943153468). 

@@ -1,0 +1,15 @@
+body{
+    background-color: olive;
+}
+
+body h1{
+    text-align: start;
+    color:aliceblue;
+    font-weight:20px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+body h1:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}

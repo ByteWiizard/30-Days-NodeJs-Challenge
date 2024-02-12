@@ -37,3 +37,7 @@ d. All of the above
 
 
 - **Day 11 🚀:** Problem Statement: Implement an authentication middleware for an Express application. The middleware should check for the presence of a valid JWT (JSON Web Token) in the request headers. If a valid token is present, allow the request to proceed; otherwise, return a 401 Unauthorized status.[Solution](https://twitter.com/Yaman895379/status/1756727256943153468). 
+
+
+- **Day 12 🚀:** Problem Statement: Implement a rate-limiting middleware for an Express application. The middleware should limit the number of requests from a single IP address to a specified rate, and return a 429 Too Many Requests status if the limit is exceeded.[Solution](https://twitter.com/Yaman895379/status/1757098136403624355).
+

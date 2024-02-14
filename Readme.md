@@ -41,3 +41,6 @@ d. All of the above
 
 - **Day 12 🚀:** Problem Statement: Implement a rate-limiting middleware for an Express application. The middleware should limit the number of requests from a single IP address to a specified rate, and return a 429 Too Many Requests status if the limit is exceeded.[Solution](https://twitter.com/Yaman895379/status/1757098136403624355).
 
+
+
+- **Day 13 🚀:** Problem Statement: Extend an existing Express application to include WebSocket support. Create a WebSocket server that echoes back any message it receives from a client. Implement an endpoint "/websocket" that serves an HTML page with JavaScript to establish a WebSocket connection.[Solution](https://twitter.com/Yaman895379/status/1757723841873268978).

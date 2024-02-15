@@ -44,3 +44,5 @@ d. All of the above
 - **Day 13 🚀:** Problem Statement: Extend an existing Express application to include WebSocket support. Create a WebSocket server that echoes back any message it receives from a client. Implement an endpoint "/websocket" that serves an HTML page with JavaScript to establish a WebSocket connection.[Solution](https://twitter.com/Yaman895379/status/1757723841873268978).
 
 - **Day 14 🚀:** Problem Statement: Implement a caching middleware for an Express application. The middleware should cache responses based on the request URL and return cached responses for subsequent identical requests. Allow cache expiration after a specified time.[Solution](https://twitter.com/Yaman895379/status/1757841994662007117).
+
+- **Day 15 🚀:** Problem Statement: Create a logging middleware for an Express application. The middleware should log detailed information about each incoming request, including the timestamp, HTTP method, URL, request headers, and request body.[Solution](https://twitter.com/Yaman895379/status/1758202659473883402).
